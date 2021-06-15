@@ -32,6 +32,6 @@ let lifeEvents = ["I was born in Troy, Michigan", "I went to Hope College", "I w
         else {
             counter++;
             console.log(`5 === 5. It took ${counter} iterations to ramdomly generate the number 5.`);
-            break
+            break;
         }
     }
